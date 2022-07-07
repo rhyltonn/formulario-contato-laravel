@@ -1,6 +1,7 @@
 {
     "name": "rhyltonn/formulario-contato",
     "description": "Um pacote que cria formulários de contato para laravel",
+    "license": "MIT",
     "authors": [
         {
             "name": "Rhylton de Figueiredo",
