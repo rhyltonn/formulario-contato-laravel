@@ -14,12 +14,6 @@
         "psr-4": {
             "rhyltonn\\formulario-contato\\": "src/"
         }
-    },
-    "extra": {
-        "laravel": {
-            "providers": [
-                "Rhyltonn\\FormularioContato\\FormularioContatoServiceProvider"
-            ]
-        }
     }
+   
 }
