@@ -1,0 +1,16 @@
+{
+    "name": "rhyltonn/formulario-contato",
+    "description": "Um pacote que cria formulários de contato para laravel",
+    "authors": [
+        {
+            "name": "Rhylton de Figueiredo",
+            "email": "rhylton.figueiredo@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "rhyltonn\\formulario-contato\\": "src/"
+        }
+    }
+}
